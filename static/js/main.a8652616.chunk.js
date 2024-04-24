@@ -382,7 +382,7 @@
                     }]
                 },
                 CopyRight: {
-                    paragraph: "&copy; Copyright Own.fund 2023.<br class='d-blok d-sm-none'> All Rights Reserved"
+                    paragraph: "&copy; Copyright Own.fund 2024.<br class='d-blok d-sm-none'> All Rights Reserved"
                 }
             }
         },
